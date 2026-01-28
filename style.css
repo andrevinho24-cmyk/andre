@@ -1,0 +1,31 @@
+body {
+    background: 
+    linear-gradient(rgba(10, 10, 10, 0.7), rgba(10, 9, 9, 0.2)),
+        url("IMG_2901.jpg");
+
+background-repeat: no-repeat ;
+background-size:cover;
+background-position: center,center;
+margin: 0;
+    min-height: 100vh;
+}  
+
+
+
+
+body{text-align:center;    
+}
+
+h1{
+    background: linear-gradient(rgba(245, 219, 71, 0.8), rgba(248, 207, 27, 0.4));
+   color: transparent;
+   -webkit-background-clip: text;
+background-clip: text;
+display: inline-block;
+
+}
+p{
+color: aliceblue;}
+
+
+    
